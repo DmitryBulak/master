@@ -1,0 +1,115 @@
+body {
+  background: url("background.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.open_t{
+	text-align: center;
+	font-size: 200%;
+	color: white;
+}
+.sun{
+	margin-top: 10px;
+	margin-left: 21px;
+        width: 100px;
+        height: 100px;
+}
+.mercury{
+	margin-top: -100px;
+	margin-left: 350px;
+}
+.mercury:hover{
+	max-width: 130px;
+	-webkit-box-shadow: 0 0 25px rgba(0,0,0,.8);
+	-moz-box-shadow: 0 0 25px rgba(0,0,0,.8);
+ 	box-shadow: 0 0 25px rgba(0,0,0,.8);
+}
+.venus{
+	margin-left: 400px;
+	margin-top: 100px;
+}
+.venus:hover{
+	max-width: 130px;
+	-webkit-box-shadow: 0 0 25px rgba(0,0,0,.8);
+	-moz-box-shadow: 0 0 25px rgba(0,0,0,.8);
+ 	box-shadow: 0 0 25px rgba(0,0,0,.8);
+}
+.earth{
+	margin-left: 600px;
+	margin-top: -300px;
+}
+.earth:hover{
+	max-width: 130px;
+	-webkit-box-shadow: 0 0 25px rgba(0,0,0,.8);
+	-moz-box-shadow: 0 0 25px rgba(0,0,0,.8);
+ 	box-shadow: 0 0 25px rgba(0,0,0,.8);
+}
+.mars{
+	margin-left: 700px;
+	margin-top: 100px;
+}
+.mars:hover{
+	max-width: 130px;
+	-webkit-box-shadow: 0 0 25px rgba(0,0,0,.8);
+	-moz-box-shadow: 0 0 25px rgba(0,0,0,.8);
+ 	box-shadow: 0 0 25px rgba(0,0,0,.8);
+}
+.jupiter{
+	margin-left: 850px;
+	margin-top: -370px;
+}
+.jupiter:hover{
+	max-width: 130px;
+	-webkit-box-shadow: 0 0 25px rgba(0,0,0,.8);
+	-moz-box-shadow: 0 0 25px rgba(0,0,0,.8);
+ 	box-shadow: 0 0 25px rgba(0,0,0,.8);
+}
+.saturn{
+	margin-left: 970px;
+	margin-top: -320px;
+}
+.saturn:hover{
+	max-width: 130px;
+	-webkit-box-shadow: 0 0 25px rgba(0,0,0,.8);
+	-moz-box-shadow: 0 0 25px rgba(0,0,0,.8);
+ 	box-shadow: 0 0 25px rgba(0,0,0,.8);
+}
+.uranus{
+	margin-left: 1200px;
+	margin-top: -50px;
+}
+.uranus:hover{
+	max-width: 130px;
+	-webkit-box-shadow: 0 0 25px rgba(0,0,0,.8);
+	-moz-box-shadow: 0 0 25px rgba(0,0,0,.8);
+ 	box-shadow: 0 0 25px rgba(0,0,0,.8);
+}
+.neptune{
+	margin-left: 1300px;
+	margin-top: 50px;
+}
+.neptune:hover{
+	max-width: 130px;
+	-webkit-box-shadow: 0 0 25px rgba(0,0,0,.8);
+	-moz-box-shadow: 0 0 25px rgba(0,0,0,.8);
+ 	box-shadow: 0 0 25px rgba(0,0,0,.8);
+}
+.planet_photo {
+	margin-left: 210px;
+	margin-top: -50px;
+}
+.content{
+	width:900px;
+	height: 450px;
+	margin-top: 120px;
+	margin-left: 13%;
+	padding: 50px;
+	background: rgba(0, 0, 0, 0.5);
+	border:1px solid black;
+	border-radius:5%;
+}
+.info{
+	color: white;
+}
